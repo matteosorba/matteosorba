@@ -1,9 +1,9 @@
 # Matteo Sorba
 
-Digital strategist a Torino. Con Calibra aiuto manager di PMI a dare una struttura alla conoscenza dell'azienda: un second brain che l'AI può leggere e il team può aggiornare.
+Digital strategist based in Turin, Italy. Through Calibra I help SME managers give structure to what their company knows: a second brain that AI can read and the team can keep up to date.
 
-Qui pubblico i materiali che uso nel lavoro, scritti per essere copiati e adattati.
+Here I publish the materials I use in my work, written to be copied and adapted.
 
-- Sito: [calibra.co](https://calibra.co/?utm_source=github&utm_medium=readme)
-- Articoli: [calibra.co/stories](https://calibra.co/stories/?utm_source=github&utm_medium=readme)
+- Website: [calibra.co](https://calibra.co/?utm_source=github&utm_medium=readme)
+- Articles (in Italian): [calibra.co/stories](https://calibra.co/stories/?utm_source=github&utm_medium=readme)
 - LinkedIn: [matteosorba](https://www.linkedin.com/in/matteosorba)
